@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi, welcome to my space 👋
 
 <!--
 **rohitnikamm/rohitnikamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on an app to help students at my campus navigate our 'unique' parking infrastructure
+
+⚡ Fun fact: This past summer I build my first home lab running a few of my favorite open-sourced apps
