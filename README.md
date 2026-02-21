@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on an app to help students at my campus navigate our parking infrastructure to make it more accessible
+🔭 I love space
 
 ⚡ Fun fact: This past summer I build my first home lab running a few of my favorite open-sourced apps
