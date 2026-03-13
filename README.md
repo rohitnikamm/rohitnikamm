@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I love space
-
-⚡ Fun fact: This past summer I build my first home lab running a few of my favorite open-sourced apps
+🔭 I'm currently working on CARS Ranked (Imagine Chess.com but for MCAT passages)
